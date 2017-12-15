@@ -1,0 +1,4 @@
+ls -la
+echo "new repo"
+mkdir 123456
+mv 123456 jenkins_jen
